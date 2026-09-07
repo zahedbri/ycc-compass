@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.yourcertifiedconsultant.compass",
-        "sha256_cert_fingerprints": ["50:EE:90:0A:2E:BB:84:D6:93:FD:B6:20:24:B5:0B:2B:77:1F:5E:93:41:2B:9C:BD:86:A5:AB:C4:A4:2B:6E:B6"]
-      }
-    }]
